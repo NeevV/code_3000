@@ -2,4 +2,4 @@
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
 # Personal Statement of Chapter 5 Reading on Ethical Machines
-I believe ethical AI should be more than vaeue principles like fairness and transparency, and should guide what people do in real situations. Chapter 5 helped me understand that thinking about worst-case scenarios makes ethics more clear and practical. As someone going into tech, I want to build things that have clear limits and are designed responsibly from the start.
+I believe ethical AI should be more than just incorporating fairness and transparency, and rather help guide what people do in real situations. Chapter 5 helped me understand that ethical thinking is best done thinking in the worst-case scenario. As someone going into tech, I want to build things responsibly and make sure they don’t cause harm.
